@@ -1,0 +1,50 @@
+# Lines
+lines.linewidth : 1
+
+# Font
+font.size : 8
+font.family : sans-serif
+font.sans-serif : lmodern
+
+# Text
+text.color : black
+
+# LaTeX
+text.usetex : True
+text.latex.preamble : \usepackage{type1ec}\renewcommand{\familydefault}{\sfdefault}\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}\usepackage{lmodern}\usepackage{amsfonts}
+#\usepackage[T1]{fontenc} \usepackage[utf8]{inputenc} \usepackage{lmodern} \usepackage{textcomp} \usepackage{amsmath} \usepackage{amssymb}\usepackage{array}
+
+# Axes
+axes.linewidth : 0.4
+axes.labelcolor : black
+axes.xmargin : 0.05
+
+# Ticks
+xtick.direction : in
+xtick.major.size : 3
+xtick.minor.size : 1.5
+xtick.major.width : 0.5
+xtick.minor.width : 0.4
+xtick.minor.visible : True
+xtick.color : black
+xtick.top : True
+xtick.labelsize : 9
+
+ytick.direction : in
+ytick.major.size : 3
+ytick.minor.size : 1.5
+ytick.major.width : 0.5
+ytick.minor.width : 0.4
+ytick.minor.visible : True
+ytick.color : black
+ytick.right : True
+ytick.labelsize : 9
+
+# Grids
+grid.linewidth : 0.4
+
+# Legend
+
+# Figure
+
+# Other
