@@ -7,4 +7,4 @@ The notebooks are named according to the project steps:
   3. Analysis of simulation results
   4. (Visualiztion)
 
-Start by running 1_MarketCap.ipynb as the resulting dataframe is used as template in other notebooks.
+Start by running 1_MarketCap.ipynb as the resulting dataframe is used as template in other notebooks. Run 1_EligibleStocks.ipynb after running all other notebooks starting with 1, as it depends on the data prepared by the other notebooks.
