@@ -5,5 +5,5 @@ The notebooks are named according to the project steps:
   1. Data Preparation
   2. Simulation of strategies
   3. Analysis of simulation results
-  (4. Visualiztion)
+  4. (Visualiztion)
 Start by running 1_MarketCap.ipynb as the resulting dataframe is used as template in other notebooks.
